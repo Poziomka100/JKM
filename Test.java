@@ -2,8 +2,10 @@ public class Test{
 	public static void main(String[] args){
 
 	System.out.println("Siema eniu");
-		kupsko
+		//kupsko
 // igor ma malego
+			
+			//+1 potwierdzam 
 	}
 }
 		
